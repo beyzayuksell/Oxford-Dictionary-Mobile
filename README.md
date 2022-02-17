@@ -1,17 +1,16 @@
-# Oxford Dictionary App
-This dictionary is a Mobile App.
+# Oxford Dictionary App (MOBILE APP)
 
 ## Oxford Dictionary Images
 
 ### Oxford Dictionary Image I
 
-![](https://github.com/beyzayuksell/birthday-remind/blob/main/App_SS/1.JPG)
+![](https://github.com/beyzayuksell/Oxford-Dictionary/blob/main/dictionary_images/image1.JPG)
 
 ### Oxford Dictionary Image II
 
-![](https://github.com/beyzayuksell/birthday-remind/blob/main/App_SS/2.JPG)
+![](https://github.com/beyzayuksell/Oxford-Dictionary/blob/main/dictionary_images/image2.JPG)
 
 ### Oxford Dictionary Image III
 
-![](https://github.com/beyzayuksell/birthday-remind/blob/main/App_SS/2.JPG)
+![](https://github.com/beyzayuksell/Oxford-Dictionary/blob/main/dictionary_images/image3.JPG)
 
