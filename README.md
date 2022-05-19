@@ -1,5 +1,7 @@
 # Oxford Dictionary App (MOBILE APP)
 
+![](https://komarev.com/ghpvc/?username=beyzayuksell)
+
 ## Oxford Dictionary Images
 
 ### Oxford Dictionary Image I
